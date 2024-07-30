@@ -8,3 +8,8 @@ confused why previous line did not get flagged
 
 branch 2 stuff here
 
+===================================================================
+
+branch 3 stuff here
+
+
