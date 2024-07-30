@@ -10,6 +10,6 @@ branch 2 stuff here
 
 ===================================================================
 
-branch 3 stuff here
+branch 3 stuff here  added this line from git hub
 
 
