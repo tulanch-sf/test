@@ -1,1 +1,10 @@
 this is the original content
+
+this line was added in branch1
+
+confused why previous line did not get flagged
+
+===================================================================
+
+branch 2 stuff here
+
